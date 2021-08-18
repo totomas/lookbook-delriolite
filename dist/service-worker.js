@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/delriolite/precache-manifest.615c2933c44370d1352618ca6e8ded83.js"
+  "/delriolite/precache-manifest.35f0a7850140137b2649a8ac89d449ed.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "lookbook-delrio"});
